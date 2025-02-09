@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a645185-a119-49c7-b3c8-4d406c1c3fad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/src/app/app.config.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/src/app/app.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/src/app/app.routes.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/src/main.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/src/server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/projet-gym-frontend/tsconfig.spec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend/projet-gym-frontend" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2sdH7WQUP88tYANf0enUlLoiW88" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ProjetGymApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Projet-GYM&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sport.Projet_GYM" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProjetGymApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Projet-GYM" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sport.Projet_GYM.ProjetGymApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a645185-a119-49c7-b3c8-4d406c1c3fad" name="Changes" comment="" />
+      <created>1738778364883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738778364883</updated>
+      <workItem from="1738782126695" duration="24367000" />
+      <workItem from="1738955100979" duration="22629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
