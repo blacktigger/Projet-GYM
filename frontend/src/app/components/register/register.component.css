@@ -1,0 +1,142 @@
+/* Conteneur général pour la page de register */
+.register {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f7f7;
+  }
+  
+  /* Boîte du formulaire de register */
+  .register-form {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  /* Titre */
+  .register h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  /* -------------------------------
+     Styles pour les inputs avec floating label et effet notch
+  --------------------------------- */
+  .form-outline {
+    position: relative;
+    margin-bottom: 20px;
+  }
+  
+  /* L'input reçoit un padding supérieur pour laisser de l'espace au label */
+  .form-outline input {
+    width: 100%;
+    padding: 16px 12px 8px;  /* Padding haut augmenté pour le label */
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: transparent;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease;
+  }
+  
+  /* Changement de bordure au focus */
+  .form-outline input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  /* Le label est positionné sur le contour de l'input avec un fond blanc pour créer l'effet notch */
+  .form-outline label {
+    position: absolute;
+    top: 50%;
+    left: 12px;
+    transform: translateY(-50%);
+    background: #fff;         /* Fond identique au formulaire pour "découper" la bordure */
+    padding: 0 4px;           /* Espace autour du texte du label */
+    color: #888;
+    font-size: 16px;
+    pointer-events: none;     /* Le label ne capte pas les clics */
+    transition: all 0.2s ease;
+  }
+  
+  /* Lorsque l'input est focus ou contient du texte (grâce au placeholder vide) */
+  .form-outline input:focus + label,
+  .form-outline input:not(:placeholder-shown) + label {
+    top: -8px;                /* Le label monte au-dessus du champ */
+    font-size: 12px;          /* Réduction de la taille du label */
+    color: #007bff;
+  }
+  
+  /* -------------------------------
+     Autres styles (checkbox, liens, bouton)
+  --------------------------------- */
+  .form-check {
+    display: flex;
+    align-items: center;
+  }
+  
+  .form-check-input {
+    margin-right: 10px;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: #0056b3;
+  }
+  
+  /* Bouton de soumission */
+  .btn {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 4px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Texte et lien de redirection */
+  .text-center {
+    margin-top: 20px;
+  }
+  
+  .text-center p {
+    color: #333;
+    font-size: 14px;
+  }
+  
+  .text-center a {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .text-center a:hover {
+    color: #0056b3;
+  }
+  
+  /* Responsive design pour les petits écrans */
+  @media (max-width: 768px) {
+    .register-form {
+      width: 100%;
+      padding: 20px;
+    }
+  }
+  
